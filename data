@@ -1,0 +1,17 @@
+[
+    {
+        "scenario_id": 1,
+        "input": "I have a headache, what should I do?",
+        "expected_response": "You can take over-the-counter pain relievers like ibuprofen or acetaminophen."
+    },
+    {
+        "scenario_id": 2,
+        "input": "I have a sore throat, how can I treat it?",
+        "expected_response": "You can try drinking warm tea with honey, or gargle with saltwater."
+    },
+    {
+        "scenario_id": 3,
+        "input": "My fever is high, what actions should I take?",
+        "expected_response": "You should rest, stay hydrated, and if the fever persists, consider consulting a healthcare provider."
+    }
+]
